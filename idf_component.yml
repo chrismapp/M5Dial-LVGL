@@ -3,8 +3,8 @@ dependencies:
     git: https://github.com/m5stack/M5Unified
     version: 0.1.13
   m5stack/M5GFX:
-    git: https://github.com/m5stack/M5GFX
-    version: 0.1.13
+    git: git@github.com:chrismapp/M5GFX.git
+    version: update-esp-idf
   lvgl/lvgl:
     git: https://github.com/lvgl/lvgl
     version: v9.2.2
