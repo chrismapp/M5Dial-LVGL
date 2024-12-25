@@ -1,7 +1,7 @@
 dependencies:
   m5stack/M5Unified:
-    git: https://github.com/m5stack/M5Unified
-    version: 0.1.13
+    git: git@github.com:chrismapp/M5Unified.git
+    version: update-esp-idf
   m5stack/M5GFX:
     git: git@github.com:chrismapp/M5GFX.git
     version: update-esp-idf
